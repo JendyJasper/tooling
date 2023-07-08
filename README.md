@@ -73,4 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-Jendy Jasper is testing the jenkins webhook build, and it works. Make sure the jenkins user is same as the owner of the /mnt directory...
+Jendy Jasper is testing the jenkins webhook build, and it works. Make sure the jenkins user is same as the owner of the /mnt directory. That's okay now
