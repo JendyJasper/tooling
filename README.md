@@ -73,4 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-Jendy Jasper is testing the jenkins webhook build
+Jendy Jasper is testing the jenkins webhook build, hopefully it works as expected.
